@@ -1,0 +1,7 @@
+[2026-09-27 13:16:06] Application started
+[2026-09-27 13:16:27] Failed login attempt for username: admin
+[2026-09-27 13:16:32] New user registered: admin
+[2026-09-27 13:16:45] Application started
+[2026-09-27 13:16:50] User logged in: admin
+[2026-09-27 13:17:37] Movie added: Hanuman Ansh (MOV9060)
+[2026-09-27 13:17:46] Application closed
