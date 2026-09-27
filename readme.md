@@ -2,6 +2,10 @@
 
 A modular, lightweight Python terminal application designed for booking movie tickets, managing theater schedules, tracking real-time seat availability, and generating sales reports.
 
+## Author: 
+- Name: Vinayak Gupta
+- Reg. No: 26BEC10005
+
 ## Project Overview: 
 
 **Cinema Seat** provides a command-line interface (CLI) for both moviegoers and cinema administrators. It addresses the need for a simple, dependency-free reservation platform by utilizing built-in Python modules and local JSON data storage. The application supports user authentication, seat allocation management, booking cancellations, and event logging.
