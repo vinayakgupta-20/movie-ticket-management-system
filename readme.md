@@ -23,7 +23,7 @@ A modular, lightweight Python terminal application designed for booking movie ti
 
 ## Technologies & Tools Used: 
 
-* **Language:** Python 3.14.6
+* **Language:** Python 3.14.7
 * **Core Libraries:** `json`, `os`, `datetime`, `random` (Standard Library only)
 * **Data Persistence:** Local JSON files (`users.json`, `movies.json`, `bookings.json`)
 * **Logging:** Plain-text audit log (`logs.txt`)
@@ -31,7 +31,7 @@ A modular, lightweight Python terminal application designed for booking movie ti
 ## Steps to Install & Run the Project: 
 
 ### Prerequisites
-Ensure you have **Python 3.14.6 or higher** installed on your system.
+Ensure you have **Python 3.14.7 or higher** installed on your system.
 
 ### Installation
 1. Clone or download the repository to your local machine:
@@ -61,7 +61,7 @@ Launch the terminal application by running:
 python main.py
 ```
 
-## 🧪 Instructions for Testing
+## Instructions for Testing: 
 
 Follow these manual testing steps to verify system functionality:
 
